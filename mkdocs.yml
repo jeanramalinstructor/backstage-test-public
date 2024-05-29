@@ -3,10 +3,10 @@ site_description: Tour of Heroes is a sample application that helps a fictional 
 site_author: jeanramalinstructor
 site_url: https://tour-of-heroes.es
 repo_url: https://github.com/0GiS0/tour-of-heroes-dotnet-api
-edit_uri: edit/main
+edit_uri: edit/main/docs
 
 plugins: 
   - techdocs-core
 
 nav:
-  - Home: README.md
+  - Home: index.md
